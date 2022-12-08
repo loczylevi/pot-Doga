@@ -7,6 +7,8 @@
 
 Feladatok:
 
+0. Hozzon létre egy *index.html* és egy *style.css* fáljt!
+
 1. A a weboldal kódolása UTF-8 -as legyen továbbá weboldal nyelve magyar (hu) legyen!
 
 2. A kis fülecske (baloldalt legfelül) neve Dolgozat legyen!
