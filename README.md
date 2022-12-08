@@ -1,8 +1,9 @@
 # Pot-Dolgozat - Állatkert
 
-<img src="kesz_feladat_kinezete_.png">
+<img src="kinezet2.png">
+<img src="kinezete1.png">
 
-# Így kell kinéznie a kèsz weboldalnak ahogy a kesz_feladat_kinezete_.png -ben lehet látni.
+# Így kell kinéznie a kèsz weboldalnak ahogy a kinezet1.png és a kinezet2.png-ben lehet látni.
 
 Feladatok:
 
