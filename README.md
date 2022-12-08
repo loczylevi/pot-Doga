@@ -5,6 +5,8 @@
 
 # Így kell kinéznie a kèsz weboldalnak ahogy a kinezet1.png és a kinezet2.png-ben lehet látni.
 
+A weboldal szövege a *szoveg.txt* -ben található!
+
 Feladatok:
 
 0. Hozzon létre egy *index.html* és egy *style.css* fáljt!
