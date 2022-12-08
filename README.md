@@ -39,7 +39,7 @@ Feladatok:
 
 10/H. Összes kèp alternatív szövege legyen "*Állatfotó*"! (Ha nem jelenik meg a kèp akkor az alt legyen "*Állatfotó*")
 
-9. A vizilónál és a maki majom résznél legyen számozatlan felsorolás de a hiúznál legyen számozott felsorolás (A mintának megfelelően)!
+11. A vizilónál és a maki majom résznél legyen számozatlan felsorolás de a hiúznál legyen számozott felsorolás (A mintának megfelelően)!
 
 # A dolgozatra 50 perc áll rendelkezésre kizárólag vscode-ot ès a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
 
