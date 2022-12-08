@@ -45,9 +45,9 @@ Feladatok:
 
 11. A vizilónál és a maki majom résznél legyen számozatlan felsorolás, de a hiúznál legyen számozott felsorolás (A mintának megfelelően)!
 
-# A dolgozatra 50 perc áll rendelkezésre kizárólag vscode-ot ès a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
+# A dolgozatra 50 perc áll rendelkezésre. Kizárólag vscode-ot ès a w3school oldalát lehet használni! Bármilyen más weboldal vagy kommunikációs platform használata esetén jegy levonás történik!
 
 # A kèsz munkákat mindenki töltse fel egy github repositoryiba saját nevèvel ellátva!
 
-# jó munkát kivánok! 
+# Jó munkát kívánok! 
 
