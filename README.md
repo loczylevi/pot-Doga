@@ -17,27 +17,27 @@ Feladatok:
 
 5. Hozzon létre egy (p) paragrafust amiben rakja bele a "Állatkerti állományunk bővült!" szövegett amit formázzon át 20px-re és szinként adja meg az "aqua"-t ! Ezután rakjon e szöveg mőgé egy sortörést!
 
-5. Hozzon létre mégegy (p) paragrafust amiben rakja bele az állatok beceneveinek szövegrészét amit formázzon át 20px-re és szinként adja meg az "*aqua*"-t! 
+6. Hozzon létre mégegy (p) paragrafust amiben rakja bele az állatok beceneveinek szövegrészét amit formázzon át 20px-re és szinként adja meg az "*aqua*"-t! 
 
-5. A "*Hasznos infok állatnév...*" szövegek legyenek fehérek és 40px nagyságúak!
+7. A "*Hasznos infok állatnév...*" szövegek legyenek fehérek és 40px nagyságúak!
 
-6. A háttér legyen zöld!
+8. A háttér legyen zöld!
 
-7. A lista elemek felsorolása legyen fehér szinű és 21px-es!
+9. A lista elemek felsorolása legyen fehér szinű és 21px-es!
 
-8/A. Szurjon be 3 képet a mintának megfeleően mind a három kép rendelkezzen ezekkel a formázásokkal:
+10/A. Szurjon be 3 képet a mintának megfeleően mind a három kép rendelkezzen ezekkel a formázásokkal:
 
-8/A. Minden kép után tegyen egy sortörést!
+10/B. Minden kép után tegyen egy sortörést!
 
-8/B. ha rávisszük bármelyik képre az egeret írja ki, hogy "*Állatfotó*"!
+10/C. ha rávisszük bármelyik képre az egeret írja ki, hogy "*Állatfotó*"!
 
-8/B. Továbbá minden kép legyen 21px -sen lekerekitve!
+10/D. Továbbá minden kép legyen 21px -sen lekerekitve!
 
-8/C. A mind a három kèp legyen 350px magas és 450 px széles!
+10/E. A mind a három kèp legyen 350px magas és 450 px széles!
 
-8/D. Csak a hiuzos képet tolja jobbra a többi kép maradjon alapértelmezett baloldalon!
+10/F. Csak a hiuzos képet tolja jobbra a többi kép maradjon alapértelmezett baloldalon!
 
-8/E. Összes kèp alternatív szövege legyen "*Állatfotó*"! (Ha nem jelenik meg a kèp akkor az alt legyen "*Állatfotó*")
+10/H. Összes kèp alternatív szövege legyen "*Állatfotó*"! (Ha nem jelenik meg a kèp akkor az alt legyen "*Állatfotó*")
 
 9. A vizilónál és a maki majom résznél legyen számozatlan felsorolás de a hiúznál legyen számozott felsorolás (A mintának megfelelően)!
 
