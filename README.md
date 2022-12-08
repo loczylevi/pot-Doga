@@ -3,7 +3,7 @@
 <img src="kinezet1.png">
 <img src="kinezet2.png">
 
-# Így kell kinéznie a kèsz weboldalnak ahogy a kinezet1.png és a kinezet2.png-ben lehet látni.
+# Így kell kinéznie a kèsz weboldalnak, ahogy a kinezet1.png és a kinezet2.png-ben lehet látni.
 
 A weboldal szövege a *szoveg.txt* -ben található!
 
@@ -11,37 +11,37 @@ Feladatok:
 
 0. Hozzon létre egy *index.html* és egy *style.css* fáljt!
 
-1. A a weboldal kódolása UTF-8 -as legyen továbbá weboldal nyelve magyar (hu) legyen!
+1. A weboldal kódolása UTF-8 -as legyen, továbbá weboldal nyelve magyar (hu) legyen!
 
 2. A kis fülecske (baloldalt legfelül) neve Dolgozat legyen!
 
-3. Az "*Állatkertünk felújítása befejeződött!*" szövegrész legyen fehér szinű, középre helyezve és 1. cimsorba rakva!
+3. Az "*Állatkertünk felújítása befejeződött!*" szövegrész legyen fehér szinű, középre helyezve és 1. címsorba rakva!
 
-4. Illeszen be 1 sortörést a 1. cimsor után!
+4. Illeszen be egy sortörést az 1. címsor után!
 
-5. Hozzon létre egy (p) paragrafust amiben rakja bele a "Állatkerti állományunk bővült!" szövegett amit formázzon át 20px-re és szinként adja meg az "aqua"-t ! Ezután rakjon e szöveg mőgé egy sortörést!
+5. Hozzon létre egy (p) paragrafust, amibe rakja bele a "Állatkerti állományunk bővült!" szöveget, amit formázzon át 20px-re és színe legyen "aqua"! Ezután rakjon e szöveg mőgé egy sortörést!
 
-6. Hozzon létre mégegy (p) paragrafust amiben rakja bele az állatok beceneveinek szövegrészét amit formázzon át 20px-re és szinként adja meg az "*aqua*"-t! 
+6. Hozzon létre mégegy (p) paragrafust, amibe rakja bele az állatok beceneveinek szövegrészét, amit formázzon át 20px-re és színe legyen ugyancsak "*aqua*"! 
 
-7. A "*Hasznos infok állatnév...*" szövegek legyenek fehérek és 40px nagyságúak!
+7. A "*Hasznos infók állatnév...*" szövegek legyenek fehérek és 40px nagyságúak!
 
 8. A háttér legyen zöld!
 
-9. A lista elemek felsorolása legyen fehér szinű és 21px-es!
+9. A lista elemek felsorolása legyen fehér színű és 21px-es!
 
-10/A. Szurjon be 3 képet a mintának megfeleően mind a három kép rendelkezzen ezekkel a formázásokkal:
+10/A. Szúrjon be 3 képet a mintának megfelelően, mind a három kép rendelkezzen ezekkel a formázásokkal:
 
-10/B. Minden kép után tegyen egy sortörést!
+10/B. Minden kép után tegyen egy sortörés!
 
-10/C. ha rávisszük bármelyik képre az egeret írja ki, hogy "*Állatfotó*"!
+10/C. Ha rávisszük bármelyik képre az egeret írja ki, hogy "*Állatfotó*"!
 
-10/D. Továbbá minden kép legyen 21px -sen lekerekitve!
+10/D. Továbbá minden kép legyen 21px -sen lekerekítve!
 
-10/E. A mind a három kèp legyen 350px magas és 450 px széles!
+10/E. Mind a három kèp legyen 350px magas és 450 px széles!
 
-10/F. Csak a hiuzos képet tolja jobbra a többi kép maradjon alapértelmezett baloldalon!
+10/F. Csak a hiúzos képet tolja jobbra a többi kép maradjon alapértelmezett baloldalon!
 
-10/H. Összes kèp alternatív szövege legyen "*Állatfotó*"! (Ha nem jelenik meg a kèp akkor az alt legyen "*Állatfotó*")
+10/H. Összes kèp alternatív szövege legyen "*Állatfotó*"! (Ha nem jelenik meg a kèp, akkor az alt legyen "*Állatfotó*")
 
 11. A vizilónál és a maki majom résznél legyen számozatlan felsorolás de a hiúznál legyen számozott felsorolás (A mintának megfelelően)!
 
